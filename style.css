@@ -1,0 +1,16 @@
+#board {
+    width: 100vw;
+    height: 56.25vw;
+    background-color: black;
+    float: left
+    /*border: 10px solid cyan;*/
+
+}
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(30, 30, 30);
+    /* background-color: black; */
+}
